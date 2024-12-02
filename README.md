@@ -3,19 +3,19 @@ Capstone Project for Fellow with ID - FE/23/30230239
 
 # PROJECT STRUCTURE
 
-e-commerce-app/
-├── docker-compose.yml
-├── product-service/
-│   ├── Dockerfile
-│   ├── product_service.py
-│   └── requirements.txt
-├── order-service/
-│   ├── Dockerfile
-│   ├── order_service.py
-│   └── requirements.txt
-└── user-service/
-    ├── Dockerfile
-    ├── user_service.py
+e-commerce-app/ <br>
+├── docker-compose.yml <br>
+├── product-service/ <br>
+│   ├── Dockerfile <br>
+│   ├── product_service.py <br>
+│   └── requirements.txt <br>
+├── order-service/ <br>
+│   ├── Dockerfile <br>
+│   ├── order_service.py <br>
+│   └── requirements.txt <br>
+└── user-service/ <br>
+    ├── Dockerfile <br>
+    ├── user_service.py <br>
     └── requirements.txt
 
 # BUILD AND RUN THE CONTAINERS
