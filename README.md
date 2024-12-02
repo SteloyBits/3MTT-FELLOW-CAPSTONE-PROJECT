@@ -1,5 +1,5 @@
 # 3MTT-FELLOW-CAPSTONE-PROJECT
-Capstone Project for <strong>Cloud Computing Fellow </strong> Fellow with ID - FE/23/30230239
+Capstone Project for <strong>Cloud Computing Fellow </strong> with ID - FE/23/30230239
 
 # PROJECT STRUCTURE
 
