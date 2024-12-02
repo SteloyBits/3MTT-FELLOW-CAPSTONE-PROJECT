@@ -21,7 +21,7 @@ e-commerce-app/ <br>
 
 # BUILD AND RUN THE CONTAINERS
 
-docker-compose build
-docker-compose up
+`docker-compose build` <br>
+`docker-compose up`
 
 Verify each service by accessing `http://localhost:500X` where X is the service number.
