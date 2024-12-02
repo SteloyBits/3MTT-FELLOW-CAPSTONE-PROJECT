@@ -1,4 +1,4 @@
-# Potential Scaling Challenges
+Potential Scaling Challenges
 
     1. Networking:
         Local development relies on Docker's bridge network, which may not scale well for multi-node clusters.
@@ -20,7 +20,7 @@
         Logs are container-specific.
         Solution: Use tools like Google Cloud Logging and Monitoring for centralized log aggregation.
     
-    # Improvements for Deployment on GCP
+Improvements for Deployment on GCP
 
     1. Use Google Kubernetes Engine (GKE):
 
